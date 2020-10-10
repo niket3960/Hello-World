@@ -1,6 +1,7 @@
 {
 firstName: "John";
-lastName: "David"
-email: "john@gmail.com"
-city:"chicago"
+lastName: "David",
+email: "john@gmail.com",
+city:"chicago",
+state;"CA"
 }
